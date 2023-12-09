@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,300&family=Roboto:wght@100;400;700&display=swap");
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+.ToogleButton {
+  margin: 15px 20px;
+  padding: 10px 15px;
+  outline: none;
+  border-radius: 10px;
+  font-size: 25px;
+}
+.optionButton {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  outline: none;
+}
